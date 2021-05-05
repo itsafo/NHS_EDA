@@ -9,8 +9,8 @@ Using exploratory data analysis to explore the NHS open source data
 
 
 #### Run locally on command prompt
-+ Run this command `git clone https://github.com/itsafo/hearthaven.git`
-+ Go into the Suicide_EDA folder
++ Run this command `git clone https://github.com/itsafo/NHS_EDA.git`
++ Go into the NHS_EDA folder
 + Go to the file location on your file explorer and Open with RStudio
 
 
@@ -19,4 +19,4 @@ Using exploratory data analysis to explore the NHS open source data
 + RStudio
 
 #### Screenshot
-![](images/ml_streamlit_app01.png)
+![]()
